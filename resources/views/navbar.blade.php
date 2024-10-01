@@ -18,9 +18,10 @@
         <input class="form-control me-2" type="text" placeholder="Search">
         <button class="btn btn-primary" type="button">Search</button>
       </form>
-       <ul>
-        <li class="nav-item"><a class="nav-link" href="#">Add To Cart</a></li>
-       </ul>
+      
+        <li class="nav-item">
+          <a class="nav-link" href="#">Add To Cart</a>
+        </li>
 
 
     </ul>
